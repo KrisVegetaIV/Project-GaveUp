@@ -1,0 +1,27 @@
+[
+
+    {
+        "title": "Why Patrick is a Back-End?",
+        "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+        Itaque ipsa voluptatum maxime esse omnis veniam, facere minus dignissimos voluptates eveniet! 
+        Molestiae atque quas necessitatibus temporibus, velit ut ducimus minus ipsam.",
+        "tag": ["#Backend","#Programming"]
+    },
+
+    {
+        "title": "How to become a Web Developer?",
+        "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+        Itaque ipsa voluptatum maxime esse omnis veniam, facere minus dignissimos voluptates eveniet! 
+        Molestiae atque quas necessitatibus temporibus, velit ut ducimus minus ipsam.",
+        "tag": ["#Developer","#BeJedi", "#Learning", "#CodeLover"]
+    },
+
+    {
+        "title": "Which is better between Designer and Developer?",
+        "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+        Itaque ipsa voluptatum maxime esse omnis veniam, facere minus dignissimos voluptates eveniet! 
+        Molestiae atque quas necessitatibus temporibus, velit ut ducimus minus ipsam.",
+        "tag": ["Designer","#Developer","#Code","#WebDesigner","#WebDeveloper"]
+    }
+
+]

@@ -1,0 +1,1 @@
+<?php include "view/Kris's-Blog.php"?>

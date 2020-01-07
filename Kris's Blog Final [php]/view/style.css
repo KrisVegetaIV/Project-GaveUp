@@ -1,0 +1,147 @@
+/* OFFICIAL */
+
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/* sfondo del login */
+.login-bg {
+    background-image: url("assets/wallpaper-blue2-light-2-blurred+darkshadow.png");
+    background-size: 1820px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+
+
+.list {
+    float:left;
+    padding-top: 60px;
+    padding-left: 100px;
+}
+
+.card-list {
+    float: right;
+    margin-right: -100px;
+    padding-top: 50px;
+    width: 530px;
+    height: auto;
+}
+
+/* loghi sotto navbar */
+.wallpaper-login {
+    width: 100%;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 1px;
+    border: 0px solid transparent;
+    z-index: 1;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+/* cover sotto navbar */
+.box {
+    width: 100%;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 1px;
+    border: 0px solid transparent;
+    background-image: url("assets/wallpaper-blue2-light-2-reducednoises.png"); z-index: 1;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.logo-1 {
+    float: right;
+    padding-top: 15px;
+}
+
+.logo-ped {
+    float: right;
+    margin-right: 40px;
+    margin-top: 3px;
+}
+
+
+.img-html {
+    float: left;
+
+}
+
+.one, .a {
+    color: white; 
+    text-shadow: 1px 1px 1px black, 0 0 1em teal, 0 0 0.2em aqua;
+}
+
+.copyright1 {
+    color: lightslategray; 
+    text-shadow: 1px 1px 1px black, 0 0 1em teal, 0 0 0.2em aqua;
+    margin-left: 25px;
+
+}
+
+.copyright2 {
+    color: darkslategray; 
+    margin-left: 25px;
+
+}
+
+.tags {
+    color: midnightblue;
+
+}
+
+.typed-tags {
+    color: darkslategray;
+}
+
+h4.b, .b1 {
+    color: #b82614;
+    margin-top: 0px;
+}
+
+.c {
+    margin-top: 0px;
+}
+
+/* About */
+section {
+    padding: 50px;
+    padding-left: 110px;
+
+}
+
+/* menu a tendina */
+.dropdown-menu {
+    background-color: #8b8f92;
+    box-shadow: 0px 3px 16px 0px rgba(0,0,0,0.2);
+    
+}
+
+.dropdown-item {
+    color: black;
+}
+
+.dropdown-item:hover {
+    background-color:#b82614;
+    color: white;
+}
+
+/* carousel */
+.carousel-inner {
+    width:650px;
+    height:auto;
+    display:block;
+    margin:0px auto;
+    text-align:center;
+}
+
